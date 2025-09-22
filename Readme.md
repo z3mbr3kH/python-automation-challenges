@@ -14,7 +14,7 @@ Each day has:
 |-----|-----------|--------|
 | 01  | Hacker News titles + links scraper | ✅ |
 | 02  | Wikipedia Featured Article + external links | ✅ |
-| 03  | Project Gutenberg top 100 books | ⬜ |
+| 03  | Project Gutenberg top 100 books | ✅ |
 | 04  | IMDb Top 250 movies | ⬜ |
 | 05  | Weather forecast scraper (save to SQLite) | ⬜ |
 | 06  | Mini web crawler (depth 2) | ⬜ |
